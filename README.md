@@ -12,5 +12,6 @@ Add in `./resources` folder :
 - `favicon.svg`
 - `apple-touch-icon.png`
 - `og-image.png`
+- add your custom styles (in any) in `styles.css`
 
 Look for "update-me-please" string to update placeholders with your own content.
